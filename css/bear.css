@@ -9,4 +9,11 @@ html {
 }
 
 /* Write your solution here */
-
+@media (min-width: 1196px) {
+  # bear {
+    position: fixed;
+    left: 800px;
+  }
+  
+  
+}

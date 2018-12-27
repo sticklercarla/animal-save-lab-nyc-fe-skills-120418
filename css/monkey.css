@@ -10,3 +10,15 @@ html {
 
 /* Write your solution here */
 
+@media (min-width:406px) {
+  #monkey {
+    position: absolute;
+    top: 0px;
+  }
+}
+@media (min-width:1170px) {
+  #monkey {
+    position: absolute;
+    top: 550px;
+  }
+}
